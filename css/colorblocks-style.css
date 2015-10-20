@@ -207,7 +207,7 @@ a.buttonlink{
 	margin:10px 15px 10px 0; 
 	padding:10px;
 	text-decoration:none;
-	font-weight:bold;
+	font-weight:700;
 }
 a.buttonlink:hover{
 	background:#ff1575;
