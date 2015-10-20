@@ -16,7 +16,7 @@ BASE (MOBILE) SIZE
 /* typography */
 
 #project1, #project1 a {
-	width:240px;
+	width:100%;
 	height:180px;
 	background-color:#dc2136;
 	color:#fff;
@@ -27,7 +27,7 @@ BASE (MOBILE) SIZE
 }
 
 #project2, #project2 a {
-	width:240px;
+	width:100%;
 	height:180px;
 	background-color:#ff2b36;
 	color:#fff;
@@ -38,7 +38,7 @@ BASE (MOBILE) SIZE
 }
 
 #project3, #project3 a {
-	width:240px;
+	width:100%;
 	height:180px;
 	background-color:#f27ba5;
 	color:#fff;
@@ -49,7 +49,7 @@ BASE (MOBILE) SIZE
 }
 
 #project4, #project4 a {
-	width:240px;
+	width:100%;
 	height:180px;
 	background-color:#23464f;
 	color:#fff;
@@ -60,7 +60,7 @@ BASE (MOBILE) SIZE
 }
 
 #project5, #project5 a {
-	width:240px;
+	width:100%;
 	height:180px;
 	background-color:#ff4d27;
 	color:#fff;
@@ -71,7 +71,7 @@ BASE (MOBILE) SIZE
 }
 
 #project6, #project6 a {
-	width:240px;
+	width:100%;
 	height:180px;
 	background-color:#f8d158;
 	color:#fff;
@@ -83,7 +83,7 @@ BASE (MOBILE) SIZE
 
 
 #project7, #project7 a {
-	width:240px;
+	width:100%;
 	height:180px;
 	background-color:#00bff3;
 	color:#fff;
@@ -174,9 +174,7 @@ p{ margin:0 0 1.5em;}
 
 /* RESPONSIVE IMAGES  */
 img{ max-width:100%; height:auto;}
-#project1, #project2, #project3, #project4, #project5, #project6, #project1{
-	width:100%;
-}
+
 
 
 /*MAIN MENU*/
@@ -569,6 +567,10 @@ This is for the larger monitors and possibly full screen viewers.
 */
 @media only screen and (min-width: 1240px) {
 #hero h1{ font-size:1.4em;}
+
+#project1, #project2, #project3, #project4, #project5, #project6, #project1{
+	width:240px;
+}
 } 
 
 /*
