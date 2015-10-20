@@ -45,7 +45,7 @@ a:hover{ text-decoration:none;}
   
 /* structure */   
 .wrapper{
-	width: 92%; 
+	width: 100%; 
 	margin: 0 auto;
 }
 header{ 
