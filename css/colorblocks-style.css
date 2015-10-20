@@ -472,7 +472,7 @@ in general anyone not viewing on a mobile device. Here's where
 you can add resource intensive styles.
 */
 @media only screen and (min-width: 1024px) {
-#hero h1{ font-size:1.4em;}
+#hero h1{ font-size:1em;}
 } 
 
 /*
@@ -480,7 +480,7 @@ LARGE VIEWING SIZE
 This is for the larger monitors and possibly full screen viewers.
 */
 @media only screen and (min-width: 1240px) {
-#hero h1{ font-size:1.2em;}
+#hero h1{ font-size:1em;}
 } 
 
 /*
