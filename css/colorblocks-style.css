@@ -568,7 +568,7 @@ This is for the larger monitors and possibly full screen viewers.
 @media only screen and (min-width: 1240px) {
 #hero h1{ font-size:1.4em;}
 
-#project1, #project2, #project3, #project4, #project5, #project6, #project1{
+#project1, #project2, #project3, #project4, #project5, #project6, #project7{
 	width:240px;
 }
 } 
