@@ -48,6 +48,38 @@ BASE (MOBILE) SIZE
 	float:left;
 }
 
+#project4, #project4 a, #project1 a:visited, #project1 a:active, #project1 a:hover {
+	width:240px;
+	height:180px;
+	background-color:#23464f;
+	color:#fff;
+	padding-top:92px;
+	padding-left:20px;
+	text-decoration:none;
+	float:left;
+}
+
+#project5, #project5 a, #project1 a:visited, #project1 a:active, #project1 a:hover {
+	width:240px;
+	height:180px;
+	background-color:#ff4d27;
+	color:#fff;
+	padding-top:92px;
+	padding-left:20px;
+	text-decoration:none;
+	float:left;
+}
+
+#project6, #project6 a, #project1 a:visited, #project1 a:active, #project1 a:hover {
+	width:240px;
+	height:180px;
+	background-color:#f8d158;
+	color:#fff;
+	padding-top:92px;
+	padding-left:20px;
+	text-decoration:none;
+	float:left;
+}
 #social {
 	color:#fff;
 	font-size:1em;
