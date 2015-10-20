@@ -60,7 +60,10 @@ header{
 
 #banner{ 
 	text-align:center;
-}	
+}
+#banner a {
+	line-height:2em;
+}
 #hero,
 #page-header{
 	background:#f3f3f3;
