@@ -180,7 +180,7 @@ img{ max-width:100%; height:auto;}
 .menu-toggle{
 	display:block;
 	padding:10px;
-	margin:20px 0 0;
+	margin:100px 0 0;
 	background:transparent;
 	color:#fff;
 	cursor:pointer;
@@ -352,10 +352,7 @@ This is for mobile devices with a bit larger screens.
 	margin-bottom:-20px;/*this depends on the height of the logo*/
 }
 
-.menu-toggle{/*make menu float right, instead of sitting under the logo*/
-	margin-top:10px; /*this depends on the height of the logo*/
-	float:right;
-}
+
 
 } 
 
