@@ -15,7 +15,6 @@ BASE (MOBILE) SIZE
 
 /* typography */
 
-#social {display:none;}
 
 body{
 	background:#fff;
@@ -248,9 +247,6 @@ a.buttonlink:hover{
 MEDIAQUERIES
 *****************************************
 ****************************************/
-
-@media only screen and (min-width: 920px)
-#social {display:block; float:left;}
 
 /*
 LARGER MOBILE DEVICES
