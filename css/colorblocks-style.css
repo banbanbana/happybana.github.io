@@ -15,13 +15,12 @@ BASE (MOBILE) SIZE
 
 /* typography */
 
-#project1{
+#project1, #project1 a {
 	width:240px;
-	height:190px;
+	height:180px;
 	background-color:#e8136a;
 	color:#fff;
-	display:table;
-	vertical-align:bottom;
+	padding-top:200px;
 }
 
 #social {
