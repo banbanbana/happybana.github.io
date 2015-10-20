@@ -51,9 +51,10 @@ header{
 	padding:15px 0;
 }
 
-#logo{
+#logo a {
 	font-family: 'Quicksand', sans-serif;
 	color:#000;
+	text-decoration:none;
 }
 
 #banner{ 
