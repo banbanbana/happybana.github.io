@@ -108,6 +108,7 @@ body{
 	font-size:1em;
 	line-height:1.4em; 
 	font-weight:400;
+	position:relative;
 }
 h1, h2, h3, h4, h5, h6{
 	font-weight:700;
@@ -277,6 +278,8 @@ footer{
 	color:#ccc;
 	font-size:80%;
 	padding:20px 0;
+	postition:absolute;
+	bottom:0;
 }
 footer ul{
 	margin:0 0 0 8%;
