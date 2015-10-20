@@ -558,7 +558,7 @@ in general anyone not viewing on a mobile device. Here's where
 you can add resource intensive styles.
 */
 @media only screen and (min-width: 1024px) {
-#hero h1{ font-size:1em;}
+#hero h1{ font-size:1em; margin-top:5px;}
 } 
 
 /*
