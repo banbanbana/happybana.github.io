@@ -111,6 +111,7 @@ img{ max-width:100%; height:auto;}
 }
 .menu-toggle img{
 	margin:0px 6% 0px 0px;
+	height:30px;
 }
 .menu-toggle.toggled-on{
 	background:#fff;
