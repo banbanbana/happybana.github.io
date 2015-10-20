@@ -56,13 +56,11 @@ header{
 	color:#000;
 	text-decoration:none;
 	font-size:1.3em;
+	line-height:2em;
 }
 
 #banner{ 
 	text-align:center;
-}
-#banner a {
-	line-height:2em;
 }
 #hero,
 #page-header{
