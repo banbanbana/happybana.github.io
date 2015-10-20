@@ -15,7 +15,7 @@ BASE (MOBILE) SIZE
 
 /* typography */
 
-#project1, #project1 a, #project1 a:visited, #project1 a:active, #project1 a:hover {
+#project1, #project1 a {
 	width:240px;
 	height:180px;
 	background-color:#dc2136;
@@ -26,7 +26,7 @@ BASE (MOBILE) SIZE
 	float:left;
 }
 
-#project2, #project2 a, #project1 a:visited, #project1 a:active, #project1 a:hover {
+#project2, #project2 a {
 	width:240px;
 	height:180px;
 	background-color:#ff2b36;
@@ -37,7 +37,7 @@ BASE (MOBILE) SIZE
 	float:left;
 }
 
-#project3, #project3 a, #project1 a:visited, #project1 a:active, #project1 a:hover {
+#project3, #project3 a {
 	width:240px;
 	height:180px;
 	background-color:#f27ba5;
@@ -48,7 +48,7 @@ BASE (MOBILE) SIZE
 	float:left;
 }
 
-#project4, #project4 a, #project1 a:visited, #project1 a:active, #project1 a:hover {
+#project4, #project4 a {
 	width:240px;
 	height:180px;
 	background-color:#23464f;
@@ -59,7 +59,7 @@ BASE (MOBILE) SIZE
 	float:left;
 }
 
-#project5, #project5 a, #project1 a:visited, #project1 a:active, #project1 a:hover {
+#project5, #project5 a {
 	width:240px;
 	height:180px;
 	background-color:#ff4d27;
@@ -70,7 +70,7 @@ BASE (MOBILE) SIZE
 	float:left;
 }
 
-#project6, #project6 a, #project1 a:visited, #project1 a:active, #project1 a:hover {
+#project6, #project6 a {
 	width:240px;
 	height:180px;
 	background-color:#f8d158;
@@ -80,6 +80,19 @@ BASE (MOBILE) SIZE
 	text-decoration:none;
 	float:left;
 }
+
+
+#project7, #project7 a {
+	width:240px;
+	height:180px;
+	background-color:#00bff3;
+	color:#fff;
+	padding-top:92px;
+	padding-left:20px;
+	text-decoration:none;
+	float:left;
+}
+
 #social {
 	color:#fff;
 	font-size:1em;
