@@ -199,7 +199,7 @@ footer ul{
 
 /*Some more colored elements*/
 a.buttonlink{ 
-	background:#5ec79e; 
+	background:#e8136a; 
 	border-radius:7px; 
 	color:#fff;
 	display:block;
@@ -209,7 +209,7 @@ a.buttonlink{
 	text-decoration:none;
 }
 a.buttonlink:hover{
-	background:#887dc2;
+	background:#b12585;
 }
 .greenelement{
 	background:#5ec79e;
