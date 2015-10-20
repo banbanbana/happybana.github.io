@@ -15,7 +15,10 @@ BASE (MOBILE) SIZE
 
 /* typography */
 
-
+#social img{
+	height:18px;
+	margin-right:10px;
+}
 body{
 	background:#fff;
 	color:#666;
