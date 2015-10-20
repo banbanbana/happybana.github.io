@@ -360,7 +360,7 @@ But I think that some more breathing space is good:)
 
 .wrapper{
 	max-width: 1200px; 
-	margin: .75em auto;
+	margin: 0px;
 }
 header{
 	padding:0;
