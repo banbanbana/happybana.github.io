@@ -17,8 +17,11 @@ BASE (MOBILE) SIZE
 
 #project1{
 	width:240px;
-	height:200px;
-	background-color:#ff00ae;
+	height:190px;
+	background-color:#e8136a;
+	color:#fff;
+	display:table;
+	vertical-align:bottom;
 }
 
 #social {
