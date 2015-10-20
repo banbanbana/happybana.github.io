@@ -18,10 +18,11 @@ BASE (MOBILE) SIZE
 #project1, #project1 a {
 	width:240px;
 	height:180px;
-	background-color:#e8136a;
+	background-color:#dc2136;
 	color:#fff;
 	padding-top:140px;
 	padding-left:20px;
+	text-decoration:none;
 }
 
 #social {
