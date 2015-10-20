@@ -108,7 +108,6 @@ body{
 	font-size:1em;
 	line-height:1.4em; 
 	font-weight:400;
-	position:relative;
 }
 h1, h2, h3, h4, h5, h6{
 	font-weight:700;
@@ -135,6 +134,7 @@ a:hover{ text-decoration:none;}
 .wrapper{
 	width: 92%; 
 	margin: 0em auto;
+	min-height:100%;
 }
 header{ 
 	padding:15px 0;
@@ -150,6 +150,7 @@ header{
 
 #banner{ 
 	text-align:center;
+	float:left;
 }
 #hero,
 #page-header{
@@ -166,7 +167,7 @@ header{
 #content,
 aside,
 .vertical-padding{  
-	padding:40px 0;
+	padding:20px 0;
 }
 p{ margin:0 0 1.5em;}
 
@@ -180,12 +181,13 @@ img{ max-width:100%; height:auto;}
 .menu-toggle{
 	display:block;
 	padding:10px;
-	margin:20px 0 0;
+	margin:0px 0 0;
 	background:transparent;
 	color:#fff;
 	cursor:pointer;
 	text-transform:uppercase;
 	font-size:20px;
+	float:right;
 }
 .menu-toggle img{
 	margin:0px 6% 0px 0px;
@@ -247,7 +249,7 @@ img{ max-width:100%; height:auto;}
 }
 #secondary-navigation ul li a:hover,
 #secondary-navigation ul li.current a{
-	background:#5ec79e;
+	background:#ec008c;
 	color:#fff;
 }
 
@@ -278,8 +280,6 @@ footer{
 	color:#ccc;
 	font-size:80%;
 	padding:20px 0;
-	postition:absolute;
-	bottom:0;
 }
 footer ul{
 	margin:0 0 0 8%;
@@ -351,10 +351,7 @@ This is for mobile devices with a bit larger screens.
 	margin-bottom:-20px;/*this depends on the height of the logo*/
 }
 
-.menu-toggle{/*make menu float right, instead of sitting under the logo*/
-	margin-top:10px; /*this depends on the height of the logo*/
-	float:right;
-}
+
 
 } 
 
@@ -500,11 +497,11 @@ ul.srt-menu li li li.sfHover ul {
 .srt-menu li:hover > a,
 .srt-menu li.current a{ 
 	color:#fff;
-	background:#5ec79e;
+	background:#ff4c8a;
 }
 .srt-menu li li:hover > a{
 	color:#fff;
-	background:#5ec79e;
+	background:#ff4c8a;
 }
 
 
