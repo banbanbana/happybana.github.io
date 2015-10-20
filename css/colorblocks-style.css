@@ -133,7 +133,7 @@ a:hover{ text-decoration:none;}
 /* structure */   
 .wrapper{
 	width: 92%; 
-	margin: 0 auto;
+	margin: 0.75em auto;
 }
 header{ 
 	padding:15px 0;
