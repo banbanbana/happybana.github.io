@@ -15,7 +15,7 @@ BASE (MOBILE) SIZE
 
 /* typography */
 
-#project1, #project1 a {
+#project1, #project1 a, a:visited, a:active, a:hover {
 	width:240px;
 	height:180px;
 	background-color:#dc2136;
@@ -25,7 +25,7 @@ BASE (MOBILE) SIZE
 	text-decoration:none;
 }
 
-#project2, #project2 a {
+#project2, #project2 a, a:visited, a:active, a:hover {
 	width:240px;
 	height:180px;
 	background-color:#ff2b36;
@@ -35,7 +35,7 @@ BASE (MOBILE) SIZE
 	text-decoration:none;
 }
 
-#project3, #project3 a {
+#project3, #project3 a, a:visited, a:active, a:hover {
 	width:240px;
 	height:180px;
 	background-color:#f27ba5;
