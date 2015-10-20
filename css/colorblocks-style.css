@@ -150,6 +150,7 @@ header{
 
 #banner{ 
 	text-align:center;
+	float:left;
 }
 #hero,
 #page-header{
