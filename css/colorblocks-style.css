@@ -23,6 +23,7 @@ BASE (MOBILE) SIZE
 	padding-top:140px;
 	padding-left:20px;
 	text-decoration:none;
+	float:left;
 }
 
 #project2, #project2 a, #project1 a:visited, #project1 a:active, #project1 a:hover {
@@ -33,6 +34,7 @@ BASE (MOBILE) SIZE
 	padding-top:110px;
 	padding-left:20px;
 	text-decoration:none;
+	float:left;
 }
 
 #project3, #project3 a, #project1 a:visited, #project1 a:active, #project1 a:hover {
@@ -43,6 +45,7 @@ BASE (MOBILE) SIZE
 	padding-top:90px;
 	padding-left:20px;
 	text-decoration:none;
+	float:left;
 }
 
 #social {
