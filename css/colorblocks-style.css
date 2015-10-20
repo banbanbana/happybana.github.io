@@ -342,11 +342,15 @@ This is for mobile devices with a bit larger screens.
 	text-align:left;
 	margin-bottom:-20px;/*this depends on the height of the logo*/
 }
+
 .menu-toggle{/*make menu float right, instead of sitting under the logo*/
 	margin-top:10px; /*this depends on the height of the logo*/
 	float:right;
 }
 
+#project1, #project2, #project3, #project4, #project5, #project6, #project1{
+	width:100%;
+}
 } 
 
 /*
