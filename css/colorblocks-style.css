@@ -297,7 +297,7 @@ header{
 
 #content {  
 	float:left;
-	width:65%;
+	width:100%;
 }
 #content.wide-content{
 	float:none;
