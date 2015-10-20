@@ -133,7 +133,7 @@ a:hover{ text-decoration:none;}
 /* structure */   
 .wrapper{
 	width: 92%; 
-	margin: 0.75em auto;
+	margin: 0em auto;
 }
 header{ 
 	padding:15px 0;
@@ -360,7 +360,7 @@ But I think that some more breathing space is good:)
 
 .wrapper{
 	max-width: 1200px; 
-	margin: 0px;
+	margin: .75em auto;
 }
 header{
 	padding:0;
