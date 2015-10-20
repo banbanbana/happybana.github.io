@@ -108,6 +108,7 @@ body{
 	font-size:1em;
 	line-height:1.4em; 
 	font-weight:400;
+	position:relative;
 }
 h1, h2, h3, h4, h5, h6{
 	font-weight:700;
@@ -153,9 +154,7 @@ header{
 #hero,
 #page-header{
 	background:#f3f3f3;
-	border-top:1px solid #e2e2e2;
-	border-bottom:1px solid #e2e2e2;
-	padding:20px 0;
+	padding:20px 0 0 0;
 	font-size:1.1em;
 }
 #page-header h1{
@@ -218,7 +217,7 @@ img{ max-width:100%; height:auto;}
 	font-size:.9em;
 }
 .srt-menu li a:hover{
-	background:#ff1575;
+	background:#ff4c8a;
 	color:#fff;
 }
 .srt-menu li li a {
@@ -279,6 +278,8 @@ footer{
 	color:#ccc;
 	font-size:80%;
 	padding:20px 0;
+	postition:absolute;
+	bottom:0;
 }
 footer ul{
 	margin:0 0 0 8%;
@@ -564,7 +565,7 @@ in general anyone not viewing on a mobile device. Here's where
 you can add resource intensive styles.
 */
 @media only screen and (min-width: 1024px) {
-#hero h1{ font-size:1em; margin-top:30px;}
+#hero h1{ font-size:1em; margin-top:70px;}
 } 
 
 /*
