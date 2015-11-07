@@ -117,3 +117,72 @@ h2 {
 	font-size:1.5em;
 	font-weight:400;
 }
+
+#team {
+	margin-top:20px;
+}
+
+#team ul {
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+
+#team ul li {
+	width:193px;
+	height:260px;
+	float:left;
+	margin:0px 20px 20px 0px;
+}
+
+#team ul li a.img1 {
+	display:block;
+	width:193px;
+	height:240px;
+	background: url(http://www.fillmurray.com/865/1040) no-repeat center;
+	background-size:auto 100%;
+}
+
+#team ul li a.img2 {
+	display:block;
+	width:193px;
+	height:240px;
+	background: url(http://www.fillmurray.com/875/1040) no-repeat center;
+	background-size:auto 100%;
+}
+
+#team ul li a.img3 {
+	display:block;
+	width:193px;
+	height:240px;
+	background: url(http://www.fillmurray.com/870/1040) no-repeat center;
+	background-size:auto 100%;
+}
+
+#team ul li a.img4 {
+	display:block;
+	width:193px;
+	height:240px;
+	background: url(http://www.fillmurray.com/860/1040) no-repeat center;
+	background-size:auto 100%;
+}
+
+#team ul li a.img5 {
+	display:block;
+	width:193px;
+	height:240px;
+	background: url(http://www.fillmurray.com/880/1040) no-repeat center;
+	background-size:auto 100%;
+}
+
+#team ul li a:hover span {
+	width:193px;
+	height:240px;
+	background-color:rgba(77, 208, 225, 0.6);
+}
+
+#team ul li a span {
+	display:block;
+	width:193px;
+	height:240px;
+}
