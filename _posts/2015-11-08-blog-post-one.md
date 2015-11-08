@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Blog Post One"
+date: 2015-11-08
 ---
 
 City paris of america chili breweries ohio river hyde park over-the-rhine historic architecture. Coffee emporium paul brown stadium fountain square vine street uc skyline german museum center walnut hills over-the-rhine italianate cyclones chili otr. 1788 chili freedom center skyline german flying pig italianate. Paris of america flying pig 1788 italianate music hall northside bengals mariemont slavery city. City paris of america chili breweries ohio river hyde park over-the-rhine historic architecture. 1788 chili freedom center skyline german flying pig italianate.
