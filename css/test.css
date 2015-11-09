@@ -17,11 +17,11 @@ html, body {
 }
 	
 nav ul, footer ul {
-    padding: 0px;
-    list-style: none;
+	padding: 0px;
+    	list-style: none;
 	text-transform:uppercase;
 	font-weight:700;
-    font-size: .8em;
+	font-size: .8em;
 	line-height: .8em;
 	margin:0px;
 }
@@ -42,7 +42,7 @@ a{
 
 a:hover {
 	color:#880E4F;
-    text-decoration: none;
+	text-decoration: none;
 	line-height:.8em;
 }
 
@@ -71,7 +71,7 @@ h1 {
 }
 	
 p {
-    font-size: .8em;
+    font-size: 1em;
     line-height: 1.4em;
     color: #333;
 }
@@ -182,5 +182,5 @@ h2 {
 ul.posts li, ul.posts {
 	margin:0px;
 	padding:0px;
-	font-size:.8em;
+	font-size:1em;
 }
