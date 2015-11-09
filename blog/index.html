@@ -1,39 +1,11 @@
-<!DOCTYPE html>
-	<head>
-	<title>Design Exercise Home</title>
-	<link rel="stylesheet" type="text/css" href="../css/test.css"/>
-	<link href='https://fonts.googleapis.com/css?family=Raleway:400,300,600,700' rel='stylesheet' type='text/css'>
-	<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-	</head>
-	<body>
-	<div id="main-wrapper">
-	<header>
-		<nav>
-			<ul>
-				<li><a href="/">Home</a></li>
-				<li><a href="/about">About</a></li>
-				<li><a href="/blog">Blog</a></li>
-			</ul>
-		</nav>
-	</header>
-	
-	<main>
-		<div class="content">
-			<article>
-				<p>Norwood historic architecture uc zinzinnati paul brown stadium catawba wine skyline midpoint music festival hyde park city irish hudepohl. Paris of america bengals hamilton county central immigrants paul brown stadium reds chili midpoint music festival museum center slavery breweries hudepohl over-the-rhine christian moerlein main street. 1788 city beat catawba wine historic architecture. Reds walnut hills german zinzinnati isaac m. wise temple irish vine street city beat uc immigrants hudepohl paul brown stadium over-the-rhine main street skyline. John roebling main street washington park 1788 reds uc river front music hall coffee emporium. Norwood historic architecture uc zinzinnati paul brown stadium catawba wine skyline midpoint music festival hyde park city irish hudepohl.</p>
-				<p>Coffee emporium italianate river front john roebling mariemont uc 1788 breweries washington park chili rivertown cincinnati humid otr. Paris of america bengals hamilton county central immigrants paul brown stadium reds chili midpoint music festival museum center slavery breweries hudepohl over-the-rhine christian moerlein main street. Fountain square oktoberfest norwood over-the-rhine paul brown stadium isaac m. wise temple avondale skyline midpoint music festival irish.</p>
-				<p>Humid uc christian moerlein cincinnati chili museum center otr oktoberfest. Ohio museum center main street slavery hamilton county over-the-rhine norwood. Northside river front bengals central norwood 50 historic architecture reds findlay market rivertown avondale over-the-rhine catawba wine. Ohio museum center main street slavery hamilton county over-the-rhine norwood.</p>
-			</article>
-		</div>	
-	</main>
-	
-	<footer>
-		<ul>
-			<li><a href="mailto:hi@happybana.net">Email</a></li>
-			<a href="#"><li class="call"><span class="align">Call</span></li></a>
-		</ul>
-	</footer>
-	<div style="clear:both;"></div>
-	</div>
-	</body>
-</html>
+---
+layout: default
+title: Design Exercise Blog
+---
+	<h1>{{ page.title }}</h1>
+	<ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
