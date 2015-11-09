@@ -187,6 +187,6 @@ h2 {
 	height:240px;
 }
 
-ul.posts {
+ul.posts, ul li.posts {
 	margin:0px;
 }
