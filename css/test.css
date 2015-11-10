@@ -434,6 +434,9 @@ nav ul, footer ul {
 	margin:0px;
 }
 	
+footer ul {
+	padding-left:30px;
+}
 nav ul li, footer ul li {
     display: inline;
     margin-right: 30px;
@@ -504,13 +507,11 @@ main {
 footer {
 	bottom: 0;
 	height: .8em;
-	width: 80%;
+	width: 100%;
 	left: 0;
 	position: absolute;
 	background-color: #ffebf1;
 	color:#ffffff;
-	padding-left:30px;
-	padding-right:30px;
 }
 
 footer a {
@@ -699,7 +700,7 @@ main {
 footer {
 	bottom: 0;
 	height: .8em;
-	width: 60%;
+	width: 100%;
 	left: 0;
 	position: absolute;
 	background-color: #ffebf1;
