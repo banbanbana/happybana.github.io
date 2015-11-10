@@ -600,7 +600,7 @@ ul.posts li, ul.posts {
 }
 }
 
-/* 1000px */
+/* 1081px */
 @media (min-width:1081px) {
 html, body {
 	margin: 0px auto;
@@ -692,8 +692,6 @@ header {
 
 main {
 	display:block;
-	padding-left:30px;
-	padding-right:30px;
 }
 
 footer {
