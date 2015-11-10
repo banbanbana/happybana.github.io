@@ -1,3 +1,4 @@
+@media (min-width:1200px) {
 html, body {
     margin: 0px auto;
 	height:100%;
@@ -184,4 +185,5 @@ ul.posts li, ul.posts {
 	padding:0px;
 	font-size:1em;
 	list-style:none;
+}
 }
