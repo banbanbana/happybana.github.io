@@ -186,7 +186,9 @@ ul.posts li, ul.posts {
 	list-style:none;
 }
 
-@media screen and (max-width:400px) {
+
+/*phablet*/
+@media screen and (max-width:800px) {
 	html, body {
     margin: 0px auto;
 	height:100%;
