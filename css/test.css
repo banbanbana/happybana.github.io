@@ -16,11 +16,11 @@ html, body {
 	margin:10% 0px;
 }
 
-nav ul {
+nav ul #nav {
 	display:none;
 }
 
-nav ul:target {
+nav ul #nav:target {
 	display:block;
 	position: absolute;
 	top: 0;
