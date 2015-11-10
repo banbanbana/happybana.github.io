@@ -16,18 +16,6 @@ html, body {
 	margin:10% 0px;
 }
 
-nav ul #nav {
-	display:none;
-}
-
-nav ul #nav:target {
-	display:block;
-	position: absolute;
-	top: 0;
-	left: 0;
-	background: #fff;
-}
-	
 nav ul, footer ul {
 	padding: 0px;
     	list-style: none;
