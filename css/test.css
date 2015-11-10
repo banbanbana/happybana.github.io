@@ -188,7 +188,7 @@ ul.posts li, ul.posts {
 
 
 /*phablet*/
-@media screen and (max-device-width:800px) {
+@media screen and (min-device-width:720px) {
 	html, body {
     margin: 0px auto;
 	height:100%;
