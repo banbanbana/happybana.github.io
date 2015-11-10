@@ -78,7 +78,10 @@ p {
 
 footer, header, main {
 	max-width:960;
-	padding:25px auto;
+	padding-top:25px;
+	padding-bottom:25px;
+	padding-left:auto;
+	padding-right:auto;
 }
 
 header {
