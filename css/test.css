@@ -23,7 +23,7 @@ header {
 	  font-weight: 800;
 	  font-size: 30px;
 	  line-height: 40px;
-}*/
+}
 
 h1 {
 	  text-align: center;
@@ -32,7 +32,7 @@ h1 {
 	  color: #eee;
 	  font-weight: 800;
 	  font-size: 40px;
-}
+}*/
 
 nav > ul {
   	float: right;
@@ -153,9 +153,6 @@ label:after{
 		  z-index: 9999;
 		  float: none;
 	}
-h1 {
-	  font-size: 26px;
-}
 }
 
 
