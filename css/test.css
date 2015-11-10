@@ -94,10 +94,11 @@ main {
 
 footer {
 	bottom: 0;
-    height: .8em;
-    left: 0;
-    position: absolute;
-    background-color: #ffebf1;
+	height: .8em;
+	width: auto;
+	left: 0;
+	position: absolute;
+	background-color: #ffebf1;
 	color:#ffffff;
 }
 
@@ -284,10 +285,11 @@ main {
 
 footer {
 	bottom: 0;
-    height: .8em;
-    left: 0;
-    position: absolute;
-    background-color: #ffebf1;
+	height: .8em;
+	width: auto;
+	left: 0;
+	position: absolute;
+	background-color: #ffebf1;
 	color:#ffffff;
 }
 
@@ -474,10 +476,11 @@ main {
 
 footer {
 	bottom: 0;
-    height: .8em;
-    left: 0;
-    position: absolute;
-    background-color: #ffebf1;
+	height: .8em;
+	width: auto;
+	left: 0;
+	position: absolute;
+	background-color: #ffebf1;
 	color:#ffffff;
 }
 
