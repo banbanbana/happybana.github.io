@@ -188,7 +188,7 @@ ul.posts li, ul.posts {
 
 
 /*phablet*/
-@media (max-width:1399px) {
+@media (min-width:640px) {
 	html, body {
     margin: 0px auto;
 	height:100%;
