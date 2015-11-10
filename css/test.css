@@ -3,7 +3,6 @@ html, body {
 	height:100%;
 	font-family:'Raleway', 'Arial', sans-serif;
 	font-size:14px;
-	text-align:center;
 }
 
 #main-wrapper {
@@ -15,7 +14,6 @@ html, body {
 
 .content {
 	margin:10% 0px;
-	max-width:960px;
 }
 	
 nav ul, footer ul {
