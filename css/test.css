@@ -14,6 +14,7 @@ html, body {
 
 .content {
 	margin:10% 0px;
+	max-width:960px;
 }
 	
 nav ul, footer ul {
@@ -78,7 +79,6 @@ p {
 
 footer, header, main {
 	padding:25px 20%;
-	max-width:960px;
 }
 
 header {
