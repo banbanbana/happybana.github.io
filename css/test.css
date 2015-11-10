@@ -10,10 +10,12 @@ html, body {
     min-height: 100%;
     padding: 0 0 100px;
     position: relative;
+    text-align:center;
 }
 
 .content {
 	margin:10% 0px;
+	text-align:left;
 }
 	
 nav ul, footer ul {
