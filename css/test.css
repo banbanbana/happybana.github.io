@@ -160,7 +160,7 @@ h1 {
 
 
 
-
+/* OLD CSS */
 html, body {
     margin: 0px auto;
 	height:100%;
@@ -178,7 +178,7 @@ html, body {
 .content {
 	margin:10% 0px;
 }
-
+/*
 nav ul, footer ul {
 	padding: 0px;
     	list-style: none;
@@ -198,7 +198,7 @@ nav ul li a {
     text-decoration: none;
     color: #fff;
 }
-	
+*/	
 a{
     text-decoration:none;
 }
