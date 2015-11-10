@@ -379,8 +379,8 @@ ul.posts li, ul.posts {
 }
 }
 
-/* 1300px */
-@media (min-width:1300px) {
+/* 1000px */
+@media (min-width:1000px) {
 html, body {
     margin: 0px auto;
 	height:100%;
