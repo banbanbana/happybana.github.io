@@ -600,7 +600,7 @@ ul.posts li, ul.posts {
 }
 
 /* 1000px */
-@media (min-width:1000px) {
+@media (min-width:1101px) {
 html, body {
     margin: 0px auto;
 	height:100%;
