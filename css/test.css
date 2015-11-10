@@ -603,7 +603,7 @@ ul.posts li, ul.posts {
 /* 1000px */
 @media (min-width:1081px) {
 html, body {
-    margin: 0px auto;
+	margin: 0px auto;
 	height:100%;
 	font-family:'Raleway', 'Arial', sans-serif;
 	font-size:14px;
@@ -678,8 +678,8 @@ p {
 }
 
 footer, header, main {
-	padding-top:10px;
-	padding-bottom:10px;
+	padding-left:20%;
+	padding-right:20%;
 }
 
 header {
@@ -700,7 +700,7 @@ main {
 footer {
 	bottom: 0;
 	height: .8em;
-	width: 100%;
+	width: 60%;
 	left: 0;
 	position: absolute;
 	background-color: #ffebf1;
