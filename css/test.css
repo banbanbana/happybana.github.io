@@ -10,11 +10,11 @@ html, body {
     min-height: 100%;
     padding: 0 0 100px;
     position: relative;
-    max-width:960px;
 }
 
 .content {
 	margin:10% 0px;
+	max-width:960px;
 }
 	
 nav ul, footer ul {
