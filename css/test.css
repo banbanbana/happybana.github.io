@@ -678,8 +678,7 @@ p {
 }
 
 footer, header, main {
-	padding-left:20%;
-	padding-right:20%;
+	padding:10px 20%;
 }
 
 header {
