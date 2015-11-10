@@ -189,7 +189,7 @@ ul.posts li, ul.posts {
 
 
 /* 550px, 750px */
-@media (min-width:550px) {
+@media (min-width:50em) {
 html, body {
     margin: 0px auto;
 	height:100%;
@@ -213,8 +213,8 @@ nav ul, footer ul {
     	list-style: none;
 	text-transform:uppercase;
 	font-weight:700;
-	font-size: .85em;
-	line-height: .85em;
+	font-size: 2.2em;
+	line-height: 2.2em;
 	margin:0px;
 }
 	
