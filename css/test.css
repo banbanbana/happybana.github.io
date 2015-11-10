@@ -104,7 +104,8 @@ nav > ul li ul li > a {
 		  position: absolute;
 		  right: 20px;
   		top: 0px;
-  		box-shadow: 0px 4px 4px rgba(130, 17, 55, 0.2),
+  		border:1px solid #db1c5d;
+  		box-shadow: 0px 4px 4px rgba(130, 17, 55, 0.2);
 	}
   
 label:after{
