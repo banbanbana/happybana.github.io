@@ -95,7 +95,7 @@ main {
 footer {
 	bottom: 0;
 	height: .8em;
-	width: auto;
+	width: 80%;
 	left: 0;
 	position: absolute;
 	background-color: #ffebf1;
@@ -286,7 +286,7 @@ main {
 footer {
 	bottom: 0;
 	height: .8em;
-	width: auto;
+	width: 60px;
 	left: 0;
 	position: absolute;
 	background-color: #ffebf1;
@@ -477,7 +477,7 @@ main {
 footer {
 	bottom: 0;
 	height: .8em;
-	width: auto;
+	width: 44px;
 	left: 0;
 	position: absolute;
 	background-color: #ffebf1;
