@@ -119,10 +119,11 @@ label:after{
   		display: block;
   		z-index: 9999;
   		position: absolute;
-		  right: 20px;
-		  left: 20px;
+		  right: 0px;
+		  left: 0px;
 		  top: 50px;
 		  background-color:#e91e63;
+		  width:100%;
 	}
 
 	nav a {
