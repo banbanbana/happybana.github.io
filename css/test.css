@@ -3,6 +3,7 @@ html, body {
 	height:100%;
 	font-family:'Raleway', 'Arial', sans-serif;
 	font-size:14px;
+	text-align:center;
 }
 
 #main-wrapper {
