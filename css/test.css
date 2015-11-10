@@ -427,7 +427,8 @@ p {
 }
 
 footer, header, main {
-	padding:25px 0px;
+	padding-top:25px;
+	padding-bottom:25px;
 }
 
 header {
@@ -438,6 +439,8 @@ header {
 
 main {
 	display:block;
+	padding-left:30px;
+	padding-right:30px;
 }
 
 footer {
@@ -448,6 +451,8 @@ footer {
 	position: absolute;
 	background-color: #ffebf1;
 	color:#ffffff;
+	padding-left:30px;
+	padding-right:30px;
 }
 
 footer a {
