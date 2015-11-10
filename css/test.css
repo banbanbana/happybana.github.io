@@ -27,6 +27,7 @@ nav ul, footer ul {
 	font-size: .8em;
 	line-height: .8em;
 	margin:0px;
+	text-align:left;
 }
 	
 nav ul li, footer ul li {
