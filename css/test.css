@@ -627,7 +627,7 @@ nav ul, footer ul {
 	text-transform:uppercase;
 	font-weight:700;
 	font-size: 1.1em;
-	margin:0px;
+	margin:0px 0px 20% 0px;
 }
 	
 nav ul li, footer ul li {
