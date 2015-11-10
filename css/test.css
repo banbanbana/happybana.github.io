@@ -57,7 +57,7 @@ nav ul li:hover > ul {
   	display: block;
 }
 nav ul li:hover > a {
-	  color: #777;
+	  color: #880e4f;
 }
 nav > ul > li > a {
 	  cursor: pointer;
@@ -261,7 +261,6 @@ footer {
 
 footer a {
 	color: #ec008c;
-	line-height:.8em;
 }
 
 h2 {
@@ -394,7 +393,6 @@ a{
 a:hover {
 	color:#880E4F;
 	text-decoration: none;
-	line-height:.8em;
 }
 
 footer a:hover {
@@ -412,7 +410,6 @@ a:hover li.call:after{
   content: '513-580-9667';
   font-family:'Open Sans', sans-serif;
   font-weight:300;
-  line-height:.8em;
 }
 	
 h1 {
@@ -453,7 +450,6 @@ footer {
 
 footer a {
 	color: #ec008c;
-	line-height:.8em;
 }
 
 h2 {
@@ -564,7 +560,6 @@ nav ul, footer ul {
 	text-transform:uppercase;
 	font-weight:700;
 	font-size: .85em;
-	line-height: .85em;
 	margin:0px;
 }
 	
@@ -585,7 +580,6 @@ a{
 a:hover {
 	color:#880E4F;
 	text-decoration: none;
-	line-height:.8em;
 }
 
 footer a:hover {
@@ -603,7 +597,6 @@ a:hover li.call:after{
   content: '513-580-9667';
   font-family:'Open Sans', sans-serif;
   font-weight:300;
-  line-height:.8em;
 }
 	
 h1 {
@@ -644,7 +637,6 @@ footer {
 
 footer a {
 	color: #ec008c;
-	line-height:.8em;
 }
 
 h2 {
